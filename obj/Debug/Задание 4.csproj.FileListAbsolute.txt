@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Учеба\Практика\Задание 4\Задание 4\obj\Debug\Задание 4.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Учеба\Практика\Задание 4\Задание 4\obj\Debug\Задание 4.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Учеба\Практика\Задание 4\Задание 4\bin\Debug\Задание 4.exe.config
+C:\Users\user\Documents\Учеба\Практика\Задание 4\Задание 4\bin\Debug\Задание 4.exe
+C:\Users\user\Documents\Учеба\Практика\Задание 4\Задание 4\bin\Debug\Задание 4.pdb
+C:\Users\user\Documents\Учеба\Практика\Задание 4\Задание 4\obj\Debug\Задание 4.exe
+C:\Users\user\Documents\Учеба\Практика\Задание 4\Задание 4\obj\Debug\Задание 4.pdb
